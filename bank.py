@@ -9,6 +9,7 @@ def get_customer_info():
 
     return [name, address, username, password]
 
+#testing
 
 # def create_customer():
 #     customers = get_customer_info()
